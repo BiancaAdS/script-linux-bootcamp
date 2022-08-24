@@ -1,2 +1,2 @@
-# script-linux-bootcamp
-Script de Criação de Estrutura de Usuários, Diretórios e Permissões
+## **Bootcamp Linux Experience da DIO.**
+- Script onde toda a Infraestrutura de usuários, Grupos de usuários, Diretórios e Permissões serão criadas automaticamente.
