@@ -17,7 +17,7 @@ echo "Criando os Usuários e adicionando aos grupos..."
 
 useradd carlos -c "Carlos" -s /bin/bash -p $(openssl passwd Senha123) -m -G GRP_ADM
 useradd maria -c "Maria" -s /bin/bash -p $(openssl passwd Senha123) -m -G GRP_ADM
-userdd joao -c "Joao" -s /bin/bash -p $(openssl passwd Senha123) -m -G GRP_ADM
+useradd joao -c "Joao" -s /bin/bash -p $(openssl passwd Senha123) -m -G GRP_ADM
 
 useradd debora -c "Debora" -s /bin/bash -p $(openssl passwd Senha123) -m -G GRP_VEN
 useradd sebastiana -c "Sebastiana" -s /bin/bash -p $(openssl passwd Senha123) -m -G GRP_VEN
